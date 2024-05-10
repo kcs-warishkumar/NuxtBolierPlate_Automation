@@ -199,6 +199,11 @@ public class Hobbies {
 		    System.out.println("The hobbies 'Updated_Role' is found in the table.");
 		} else {
 		    System.out.println("The hobbies 'Updated_Role' is not found in the table.");
+		    System.out.println("The hobbies 'Updated_Role' is not found in the table.");
+		    System.out.println("The hobbies 'Updated_Role' is not found in the table.");
+		    System.out.println("The hobbies 'Updated_Role' is not found in the table.");
+		    System.out.println("The hobbies 'Updated_Role' is not found in the table.");
+		    System.out.println("The hobbies 'Updated_Role' is not found in the table.");
 		    // Handle the scenario accordingly
 		}
 
