@@ -65,7 +65,7 @@ public class addUser {
 
 	private String generateRandomEmail() {
 		String uuid = UUID.randomUUID().toString();
-		return "user-" + uuid.substring(0, 8) + "@automation.com";
+		return "New_User-" + uuid.substring(0, 5) + "@automation.com";
 	}
 
 	private void fillInputField(String fieldName, String value) {
